@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./style.css";
+import passport from "../../config/middleware/passport"
 
 class Login extends Component {
   // Setting the initial values of this.state.username and this.state.password

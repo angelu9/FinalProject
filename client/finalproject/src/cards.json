@@ -3,7 +3,7 @@
 [
     {
         "id": "starter",
-        "description": "Start up What shall we call you? What is your gender? What is the name of your village?",
+        "description": "Start up What shall we call you? What is the name of your village?",
         "paths": [{
             "targetid": "secret2",
             "buttonText": ""
